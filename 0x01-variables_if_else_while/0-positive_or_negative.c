@@ -1,5 +1,6 @@
-#include <stdib.h>
+#include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 /**
  * main - block
  * Return: 0
