@@ -3,7 +3,7 @@
 /**
  * main - prints all possible combinations of two different digits
  * in ascending order, seperated by a coma followed by a space.
- * Return Always 0
+ * Return: Always (0)
  */
 
 int main(void)
