@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * _evaluate - evaluate function sqrt
- * @i: integer
- * @n: integer
+ * @i: interger
+ * @n: interger
  * Return: evaluate sqrt
  */
 
