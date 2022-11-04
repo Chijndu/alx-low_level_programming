@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * nain - a program that multiplies two numbers
+ * main - a program that multiplies two numbers
  * @argc: the # of arguments
  * @argv: the names of them
  * Return: 0
