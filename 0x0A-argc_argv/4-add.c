@@ -24,7 +24,7 @@ int main(int argc, char **argv)
 		additive = strtol(argv[i], &nope, 10);
 		if (*nope == '\0')
 		{
-			sum +- additive;
+			sum += additive;
 		}
 		else
 		{
