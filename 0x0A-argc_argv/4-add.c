@@ -14,9 +14,9 @@ int main(int argc, char **argv)
 	int additive = 0;
 	char *nope;
 
-	if (aegc < 2)
+	if (argc < 2)
 	{
-		printf("0\n")
+		printf("0\n");
 			return (0);
 	}
 	for (; i < argc; i++)
