@@ -2,14 +2,14 @@
 #include <stdlib.h>
 
 /**
- * main - prints its qwn opodes
+ * main - prints its own opcodes
  * @argc: number of arguments
  * @argv: array of arguments
  *
  * Return: Always 0 (success)
  *
  */
-iint main(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	int bytes, i;
 	char *arr;
